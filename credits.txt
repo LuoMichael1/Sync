@@ -1,0 +1,127 @@
+	References
+3.1.5 Musical Notation – Digital Sound & Music. (n.d.). Retrieved May 7, 2023, from
+	https://digitalsoundandmusic.com/3-1-5-musical-notation/
+4. More Control Flow Tools — Python 3.8.3 documentation. (n.d.). Docs.python.org.
+	https://docs.python.org/3/tutorial/controlflow.html
+A Brief History of the Trumpet - Music Education Blog for Parents and Students. (2021, January
+	25). Vibe Music Academy. https://www.vibemusicacademy.com/blog/a-brief-history-of-the-trumpet#:~:text=The%2
+	0Origins%20of%20the%20Trumpet
+Ayvazyan, S. (2018, February 17). How to Draw a Trumpet. Drawingforall.net.
+	https://www.drawingforall.net/how-to-draw-a-trumpet/
+Bent, I. D. (2019). musical notation | Description, Systems, & Note Symbols. In Encyclopædia Britannica.
+	https://www.britannica.com/art/musical-notation
+Bradfield, C. (2016, August 15). Pygame Lesson 1-3: More About Sprites · KCC Blog.
+	 Kidscancode.org. https://kidscancode.org/blog/2016/08/pygame_1-3_more-about-sprites/
+Brief guide to the treble clef: Staff lines, notes, and more. (2022, December 20). Piano Blog by
+	Skoove - Piano Practice Tips.
+	https://www.skoove.com/blog/treble-clef-notes/#:~:text=The%20notes%20on%20the%20
+	lines%20of%20treble%20clef%20are%3A%20E
+Chadwick, R. (n.d.). PyGame Drawing Shapes - PyGame Tutorial. Ryanstutorials.net. Retrieved
+	May 7, 2023, from https://ryanstutorials.net/pygame-tutorial/pygame-shapes.php
+Chapter 17 - Creating Graphics. (n.d.). Inventwithpython.com. Retrieved May 7, 2023, from
+	https://inventwithpython.com/invent4thed/chapter17.html
+Chelliah, I. (2023, March 7). 5 Types of Arguments in Python Function Definitions | Built In.
+	Builtin.com. https://builtin.com/software-engineering-perspectives/arguments-in-python
+Elements of Music. (n.d.). Kaitlin Bove Music.
+	https://kaitlinbove.com/elements-of-music#:~:text=When%20studying%20and%20discussing%20music
+Farrant, D. (2020, September 24). Types Of Musical Notes | Hello Music Theory.
+	Https://Hellomusictheory.com/. https://hellomusictheory.com/learn/types-of-musical-notes/
+Free Music Archive. (2019). Freemusicarchive.org. https://freemusicarchive.org/
+Free Trumpet Sheet Music, Lessons & Resources - 8notes.com. (n.d.). Www.8notes.com.
+	Retrieved May 7, 2023, from https://www.8notes.com/trumpet/
+Introduction to Pygame — Pygame tutorial 2019 documentation. (n.d.). Pygame.readthedocs.io. 
+	https://pygame.readthedocs.io/en/latest/1_intro/intro.html
+Introduction to Python: Functions Cheatsheet. (n.d.). Codecademy.
+	https://www.codecademy.com/learn/flask-introduction-to-python/modules/learn-python3-
+	functions/cheatsheet
+Lesson 7 - Pixel Coordinates. (n.d.). HackMD. Retrieved May 7, 2023, from
+	https://hackmd.io/@codestreamstudios/SkNrYsT2c?utm_source=preview-mode&utm_medium=rec
+Lexend. (n.d.). Google Fonts. Retrieved May 7, 2023, from
+	https://fonts.google.com/specimen/Lexend?query=lexend
+Loops - Learn Python - Free Interactive Python Tutorial. (n.d.). Www.learnpython.org.
+	https://www.learnpython.org/en/Loops
+Maeder, M. (2023, March). How to Make Buttons in PyGame - Python Code.
+	Www.thepythoncode.com. https://www.thepythoncode.com/article/make-a-button-using-pygame-in-python
+Music Reading Basics. (2019, September 20). Wesley Campbell, Trumpet.
+	http://www.campbelltrumpet.com/toyo/2019/9/20/music-reading-basics
+Music Theory Academy. (2020, June 26). Treble Clef - Music Theory Academy - Learn the notes
+	of the Treble Clef. Music Theory Academy.
+	https://www.musictheoryacademy.com/how-to-read-sheet-music/treble-clef/
+Neekhara, A. (2020, September 25). How to draw rectangle in Pygame? GeeksforGeeks.
+	https://www.geeksforgeeks.org/how-to-draw-rectangle-in-pygame/
+Nikhilaggarwal3. (2021, October 19). PyGame Tutorial. GeeksforGeeks.
+	https://www.geeksforgeeks.org/pygame-tutorial/
+Petlja. (n.d.). Www.petlja.org. Retrieved May 7, 2023, from
+	https://www.petlja.org/biblioteka/r/lekcije/pajtonzasvakoga/03_pygame-03_pygame_eng_02_basics
+Pygame - Use Text as Buttons. (n.d.). Www.tutorialspoint.com. Retrieved May 7, 2023, from
+	https://www.tutorialspoint.com/pygame/pygame_use_text_buttons.htm
+Pygame Front Page — pygame v2.3.0 documentation. (n.d.). Pyga.me. https://pyga.me/docs/
+Pygame Tutorial - javatpoint. (2021). Www.javatpoint.com. https://www.javatpoint.com/pygame
+pygame.Color — pygame v2.0.0.dev7 documentation. (n.d.). Www.pygame.org.
+	https://www.pygame.org/docs/ref/color.html
+pygame.Rect — pygame v2.0.0.dev25 documentation. (n.d.). Www.pygame.org.
+	https://www.pygame.org/docs/ref/rect.html
+pygame/pygame. (2020, March 8). GitHub. https://github.com/pygame/pygame
+python - Change the position of the origin in PyGame coordinate system. (2012, April 16). Stack
+	Overflow.
+	https://stackoverflow.com/questions/10167329/change-the-position-of-the-origin-in-pyga
+	me-coordinate-system
+Python - Functions - Tutorialspoint. (n.d.). Www.tutorialspoint.com.
+	https://www.tutorialspoint.com/python/python_functions.htm
+Python Function Arguments (Default, Keyword and Arbitrary). (n.d.). Www.programiz.com.
+	https://www.programiz.com/python-programming/function-argument
+Python Programming Tutorials. (n.d.). Pythonprogramming.net. Retrieved May 7, 2023, from
+	https://pythonprogramming.net/pygame-start-menu-tutorial/
+Python, R. (n.d.). PyGame: A Primer on Game Programming in Python – Real Python.
+	Realpython.com. https://realpython.com/pygame-a-primer/
+pythonprogramming. (2020, September 4). How to make Buttons in pygame. Python
+	Programming. https://pythonprogramming.altervista.org/buttons-in-pygame/
+Scandinavianz X Limujii - Serenade (free download). (n.d.). Soundcloud.com. Retrieved May 7,
+	2023, from https://soundcloud.com/scandinavianz/scandinavianz-x-limujii-serenade-free-download
+Sigon. (2018, October 10). Pygame Rect Object. Sigon ./.
+	https://sigon.gitlab.io/post/2018-10-10-pygame-rect/
+Stack Overflow. (2022). Stack Overflow - Where Developers Learn, Share, & Build Careers.
+	Stack Overflow. https://stackoverflow.com/
+Sturtz, J. (n.d.). Defining Your Own Python Function – Real Python. Realpython.com.
+	https://realpython.com/defining-your-own-python-function/
+Tao, C. (2022, February 7). Four Types of Parameters and Two Types of Arguments in Python. 
+	Medium.
+	https://towardsdatascience.com/four-types-of-parameters-and-two-types-of-arguments-in-
+	python-357ccfdea3db
+tiles - How to convert a list into coordinates in pygame. (2022, July 10). Game Development
+	Stack Exchange.
+	https://gamedev.stackexchange.com/questions/201679/how-to-convert-a-list-into-coordin
+	ates-in-pygame
+Trumpet Practice Chart | Trumpet Fingering Poster Trumpet Chord Chart,Trumpet Chord Poster
+	Fingering Chart Chord Note Music Instrument Reference Guide for Novice Practice
+	Bavokon : Amazon.ca: Musical Instruments, Stage & Studio. (n.d.). Www.amazon.ca. 
+	Retrieved May 7, 2023, from
+	https://www.amazon.ca/Practice-Fingering-Instrument-Reference-Bavokon/dp/B0B59KYRNZ?th=1
+Trumpet Sheet Music Downloads. (n.d.). Musicnotes.com. Retrieved May 7, 2023, from
+	https://www.musicnotes.com/sheet-music/instrument/brass/trumpet-family/trumpet
+Vishal. (2022, August 2). Python Function Arguments. PYnative.
+	https://pynative.com/python-function-arguments/
+W3 Schools. (2019). Python Functions. W3schools.com.
+	https://www.w3schools.com/python/python_functions.asp
+W3Schools. (2019). Python For Loops. W3schools.com.
+	https://www.w3schools.com/python/python_for_loops.asp
+W3Schools. (2023). W3Schools Online Web Tutorials. W3schools.com; W3Schools.
+	https://www.w3schools.com/
+Walker, D. (2022, August 3). A Brief History Of The Trumpet | Hello Music Theory.
+	Https://Hellomusictheory.com/. 
+	https://hellomusictheory.com/learn/history-of-the-trumpet/
+What Are All The Parts of a Trumpet Called? (2020, March 31). Https://Trumpet.biz/.
+	https://trumpet.biz/trumpet-accessories/trumpet-parts/
+Wikipedia Contributors. (2018, November 26). Trumpet. Wikipedia; Wikimedia Foundation.
+	https://en.wikipedia.org/wiki/Trumpet
+Work with rectangles — Pygame tutorial 2019 documentation. (n.d.). Pygame.readthedocs.io.
+	https://pygame.readthedocs.io/en/latest/rect/rect.html
+Wright, K. (2019, February 4). Trumpet Notes - How To Play The Trumpet With Fingering Chart.
+	Allmusicalinstruments. https://allmusicalinstruments.net/trumpet-notes/
+writer, A. M. A. M. A. is a freelance, & Policy, published children’s author R. M. L. about our E.
+	(n.d.). Understanding Musical Notes and Symbols. LoveToKnow. Retrieved May 7, 2023,
+	from https://www.lovetoknow.com/parenting/kids/understanding-musical-notes-symbols
+
+
+Game by Michael Luo and Deeksha Tandon
+Thanks for playing!

@@ -1,0 +1,5 @@
+How many notes are there in music?_4_5_6_7_D_
+How many beats are in a whole note?_3_8_4_0_C_
+How many valves does a trumpet have?_0_1_2_3_D_
+What does the second Valve of the Trumpet do?_Lowers the pitch by a half step._Lowers the pitch by a whole step._Lowers the pitch by a quarter step._Lowers the pitch by an eighth step._A_
+What note are you playing if you press the first and third Valve?_C_D_F_A_B_
